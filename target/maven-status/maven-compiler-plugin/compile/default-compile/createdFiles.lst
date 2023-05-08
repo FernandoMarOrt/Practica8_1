@@ -1,0 +1,5 @@
+daw/fer/modelo/Conexion.class
+daw/fer/aplicacion/Programa.class
+daw/fer/modelo/Factura.class
+daw/fer/modelo/IFactura.class
+daw/fer/modelo/FacturaDAO.class
